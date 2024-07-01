@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.data {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+
+.article {
+  border-radius: 5px;
+  margin: 10px;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+}
+
+.article h2 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.article img {
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+}
